@@ -1401,529 +1401,223 @@
             <Sprites />
           </SpriteFolder>
           <SpriteFolder Name="Characters">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="17" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_00.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="43" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_01.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="44" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_04.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="45" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_07.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="46" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_10.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="47" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_13.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="48" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_16.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="49" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_19.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="50" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_22.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="51" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_25.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="52" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_28.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="53" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_31.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="54" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.0_F_34.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="55" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_00.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="56" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_01.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="57" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_04.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="58" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_07.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="59" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_10.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="60" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_13.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="61" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_16.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="62" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_19.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="63" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_22.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="64" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_25.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="65" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_28.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="66" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_31.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="67" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.1_L_34.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="68" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_00.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="69" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_01.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="70" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_04.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="71" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_07.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="72" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_10.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="73" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_13.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="74" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_16.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="75" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_19.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="76" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_22.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="77" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_25.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="78" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_28.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="79" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_31.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="80" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.2_R_34.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="81" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_00.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="82" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_01.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="83" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_04.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="84" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_07.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="85" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_10.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="86" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_13.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="87" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_16.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="88" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_19.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="89" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_22.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="90" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_25.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="91" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_28.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="92" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_31.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="93" Width="24" Height="30" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Player.3_B_34.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="18" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_00.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="19" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_01.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="20" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_04.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="21" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_07.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="22" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_10.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="23" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_13.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="24" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_16.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="25" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_19.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="26" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_22.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="27" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_25.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="28" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_28.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="29" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_31.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="30" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.0_F_34.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="94" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_00.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="95" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_01.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="96" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_04.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="97" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_07.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="98" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_10.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="99" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_13.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="100" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_16.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="101" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_19.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="102" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_22.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="103" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_25.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="104" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_28.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="105" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_31.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="106" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.1_L_34.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="107" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_00.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="108" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_01.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="109" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_04.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="110" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_07.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="111" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_10.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="112" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_13.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="113" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_16.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="114" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_19.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="115" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_22.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="116" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_25.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="117" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_28.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="118" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_31.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="119" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.2_R_34.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="120" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_00.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="121" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_01.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="122" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_04.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="123" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_07.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="124" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_10.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="125" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_13.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="126" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_16.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="127" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_19.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="128" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_22.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="129" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_25.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="130" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_28.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="131" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_31.png</FileName>
-                </Source>
-              </Sprite>
-              <Sprite Slot="132" Width="48" Height="60" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
-                <Source>
-                  <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Double\Player.3_B_34.png</FileName>
-                </Source>
-              </Sprite>
-            </Sprites>
+            <SubFolders>
+              <SpriteFolder Name="Stan">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="21" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0000.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="22" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0001.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="23" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0002.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="24" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0003.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="25" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0004.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="26" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0005.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="27" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0006.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="28" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0007.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="29" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0008.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="30" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0009.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="48" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0010.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="49" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0011.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="50" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Satan0012.png</FileName>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="Angels">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="17" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0000.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="18" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0001.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="19" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0002.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="20" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0003.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="43" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0004.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="44" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0005.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="45" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0006.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="46" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0007.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="47" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0008.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="51" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0009.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="52" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0010.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="53" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0011.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="54" Width="9" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\Angels0012.png</FileName>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="God">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="55" Width="11" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0000.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="56" Width="11" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0001.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="57" Width="11" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0002.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="58" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0003.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="59" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0004.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="60" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0005.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="61" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0006.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="62" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0007.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="63" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0008.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="64" Width="12" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0009.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="65" Width="11" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0010.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="66" Width="11" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0011.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="67" Width="11" Height="28" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\eren\Desktop\Pics\Player_WC_Small\God0012.png</FileName>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="Eve">
+                <SubFolders />
+                <Sprites />
+              </SpriteFolder>
+            </SubFolders>
+            <Sprites />
           </SpriteFolder>
         </SubFolders>
         <Sprites>
@@ -2027,7 +1721,309 @@
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
+                    <Image>21</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>22</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>23</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>22</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>21</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>22</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>23</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>22</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>24</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>25</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>26</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>27</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>28</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>29</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>30</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>24</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>25</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>26</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>27</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>28</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>29</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>30</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>48</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>49</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>50</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>49</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>48</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>49</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>50</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>49</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
+          <View>
+            <ID>3</ID>
+            <Name>angelWlk</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
                     <Image>17</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>18</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>19</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>18</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>17</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>18</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>19</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>18</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>20</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -2069,371 +2065,129 @@
                   </ViewFrame>
                   <ViewFrame>
                     <ID>6</ID>
-                    <Image>48</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>7</ID>
-                    <Image>49</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>8</ID>
-                    <Image>50</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>9</ID>
                     <Image>51</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
                   <ViewFrame>
-                    <ID>10</ID>
+                    <ID>0</ID>
+                    <Image>20</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>43</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>44</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>45</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>46</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>47</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>51</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
                     <Image>52</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
-                    <ID>11</ID>
+                    <ID>1</ID>
                     <Image>53</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
-                    <ID>12</ID>
+                    <ID>2</ID>
                     <Image>54</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
-                </Frames>
-              </Loop>
-              <Loop>
-                <ID>1</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames>
-                  <ViewFrame>
-                    <ID>0</ID>
-                    <Image>55</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>1</ID>
-                    <Image>56</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>2</ID>
-                    <Image>57</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
                   <ViewFrame>
                     <ID>3</ID>
-                    <Image>58</Image>
+                    <Image>53</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>4</ID>
-                    <Image>59</Image>
+                    <Image>52</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>5</ID>
-                    <Image>60</Image>
-                    <Flipped>False</Flipped>
+                    <Image>53</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>6</ID>
-                    <Image>61</Image>
-                    <Flipped>False</Flipped>
+                    <Image>54</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>7</ID>
-                    <Image>62</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>8</ID>
-                    <Image>63</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>9</ID>
-                    <Image>64</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>10</ID>
-                    <Image>65</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>11</ID>
-                    <Image>66</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>12</ID>
-                    <Image>67</Image>
-                    <Flipped>False</Flipped>
+                    <Image>53</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
-              </Loop>
-              <Loop>
-                <ID>2</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames>
-                  <ViewFrame>
-                    <ID>0</ID>
-                    <Image>68</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>1</ID>
-                    <Image>69</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>2</ID>
-                    <Image>70</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>3</ID>
-                    <Image>71</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>4</ID>
-                    <Image>72</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>5</ID>
-                    <Image>73</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>6</ID>
-                    <Image>74</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>7</ID>
-                    <Image>75</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>8</ID>
-                    <Image>76</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>9</ID>
-                    <Image>77</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>10</ID>
-                    <Image>78</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>11</ID>
-                    <Image>79</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>12</ID>
-                    <Image>80</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                </Frames>
-              </Loop>
-              <Loop>
-                <ID>3</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames>
-                  <ViewFrame>
-                    <ID>0</ID>
-                    <Image>81</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>1</ID>
-                    <Image>82</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>2</ID>
-                    <Image>83</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>3</ID>
-                    <Image>84</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>4</ID>
-                    <Image>85</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>5</ID>
-                    <Image>86</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>6</ID>
-                    <Image>87</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>7</ID>
-                    <Image>88</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>8</ID>
-                    <Image>89</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>9</ID>
-                    <Image>90</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>10</ID>
-                    <Image>91</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>11</ID>
-                    <Image>92</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>12</ID>
-                    <Image>93</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                </Frames>
-              </Loop>
-            </Loops>
-          </View>
-          <View>
-            <ID>3</ID>
-            <Name>egoTlk</Name>
-            <Loops>
-              <Loop>
-                <ID>0</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames />
-              </Loop>
-              <Loop>
-                <ID>1</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames />
-              </Loop>
-              <Loop>
-                <ID>2</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames />
-              </Loop>
-              <Loop>
-                <ID>3</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames />
               </Loop>
             </Loops>
           </View>
@@ -2538,6 +2292,246 @@
                     <ID>3</ID>
                     <Image>16</Image>
                     <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
+          <View>
+            <ID>5</ID>
+            <Name>godWlk</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>55</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>56</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>57</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>56</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>55</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>56</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>57</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>56</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>58</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>59</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>60</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>61</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>62</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>63</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>64</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>58</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>59</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>60</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>61</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>62</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>63</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>64</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>65</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>66</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>67</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>66</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>65</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>66</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>67</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>66</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
